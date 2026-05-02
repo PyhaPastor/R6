@@ -39,6 +39,7 @@ Keihin N424-74C series — M4 thread, fits CVK OEM type carbs.
 
 | Size | Part Number |
 |------|-------------|
+| #38 | N424-74C-38 | ( These were installed since i got the bike).
 | #40 | N424-74C-40 |
 | #42 | N424-74C-42 |
 
