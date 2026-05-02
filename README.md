@@ -60,7 +60,7 @@ Per official Dynojet instructions for 1999–2000 European YZF-R6:
 | Setting | Result |
 |---------|--------|
 | #38 pilots, 3rd groove + 2 washers, screws 3–3.5 turns | Lean, hesitation under 8000rpm, decel pop |
-| #38 pilots, 5th groove + 3 washers | Sluggish top end (note: airbox was leaking at this time) |
+| #38 pilots, 5th groove + 3 washers | Sluggish top end (note: airbox may have been leaking at the time.) |
 | #40 pilots, 4th groove + 3 washers, screws 2.5 turns | Current setup — runs well, slight hanging idle |
 
 ## Known Issues To Address
