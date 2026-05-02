@@ -42,6 +42,8 @@ Keihin N424-74C series — M4 thread, fits CVK OEM type carbs.
 | #40 | N424-74C-40 |
 | #42 | N424-74C-42 |
 
+what i used: https://www.aliexpress.com/item/1005008321349191.html
+
 **NOT compatible:**
 - N424-21 series (M5 thread — for FCR/PWK race carbs)
 - 99101-357 series (different thread — for Honda/Kawasaki CVKs)
