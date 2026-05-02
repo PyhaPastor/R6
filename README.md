@@ -15,7 +15,7 @@ European spec, Keihin CVK34 carbs.
 |-----------|---------|
 | Pilot jets | #40 (Keihin N424-74C-40) |
 | Main jets | Highest in Dynojet kit (DJ140) |
-| Needle position | 4th groove from top |
+| Needle position | 4th groove from top (the grooved end) |
 | Needle washers | 3 (above E-clip, per Dynojet spec) |
 | Fuel screws | 2.5 turns out — testing 3 turns next |
 | Float height | ~6mm from bowl gasket mating surface (≈ OEM 17.5–18.5mm spec) |
